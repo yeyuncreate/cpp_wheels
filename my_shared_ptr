@@ -5,8 +5,6 @@
 	> Created Time: 2015年05月28日 星期四 13时35分00秒
  ************************************************************************/
 
-using namespace std;
-
 template <typename T>
 class mySmartPtr
 {
